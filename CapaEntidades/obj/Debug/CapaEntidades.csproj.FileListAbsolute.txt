@@ -1,0 +1,5 @@
+F:\Programación en Bases de Datos\Programando en visual clases\CapaEntidades\CapaEntidades\bin\Debug\CapaEntidades.dll
+F:\Programación en Bases de Datos\Programando en visual clases\CapaEntidades\CapaEntidades\bin\Debug\CapaEntidades.pdb
+F:\Programación en Bases de Datos\Programando en visual clases\CapaEntidades\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+F:\Programación en Bases de Datos\Programando en visual clases\CapaEntidades\CapaEntidades\obj\Debug\CapaEntidades.dll
+F:\Programación en Bases de Datos\Programando en visual clases\CapaEntidades\CapaEntidades\obj\Debug\CapaEntidades.pdb

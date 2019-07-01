@@ -40,6 +40,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="logicaNegocioComentarios.cs" />
+    <Compile Include="logicaNegocioCuentas.cs" />
+    <Compile Include="logicaNegocioRecursos.cs" />
+    <Compile Include="logicaNegocioSolicitud.cs" />
+    <Compile Include="logicaNegocioUsuarios.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

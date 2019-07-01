@@ -10,7 +10,7 @@ using System.Data.SqlClient;
 
 namespace capaDatos
 {
-    class AccesoClaseCuentas
+   public class AccesoClaseCuentas
     {
         SqlConnection cnx; //conexion
         Cuentas cnt = new Cuentas();
@@ -126,7 +126,7 @@ return indicador;
                 SqlConnection cnx = cn.conectar();
                 cm = new SqlCommand("pro_cuentas", cnx);
                 cm.Parameters.AddWithValue("@b", 4);
-                cm.Parameters.AddWithValue("@idcuenta", ct.idcuent);
+                cm.Parameters.AddWithValue("@idcuenta", ct.idcuenta);
                 cm.Parameters.AddWithValue("@nombreuser", "");
                 cm.Parameters.AddWithValue("@clave", "");
                 cm.Parameters.AddWithValue("@rol", "");

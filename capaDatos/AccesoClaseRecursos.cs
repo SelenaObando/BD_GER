@@ -10,7 +10,7 @@ using System.Data.SqlClient;
 
 namespace capaDatos
 {
-    class AccesoClaseRecursos
+    public class AccesoClaseRecursos
     {
         
         SqlConnection cnx; //conexion
